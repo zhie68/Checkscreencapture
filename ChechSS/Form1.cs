@@ -35,14 +35,14 @@ namespace ChechSS
             dataGridView1.Columns[4].Width = 50;
             
         }
-        static readonly string cb = "\\\\172.21.86.150\\D$\\PICT\\";
-        static readonly string cs = "\\\\172.21.86.47\\D$\\PICT\\";
-        static readonly string cssch = "\\\\172.21.86.48\\D$\\PICT\\";
-        static readonly string dss = "\\\\172.21.86.50\\D$\\PICT\\";
-        static readonly string ds = "\\\\172.21.86.44\\D$\\PICT\\";
-        static readonly string mrk = "\\\\172.21.86.56\\D$\\PICT\\";
-        static readonly string ins = "\\\\172.21.86.52\\D$\\PICT\\";
-        static readonly string cl = "\\\\172.21.86.58\\D$\\System32\\Windows\\";
+        static readonly string cb = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string cs = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string cssch = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string dss = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string ds = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string mrk = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string ins = "\\\\yourtargetip\\drive$\\targetfolder\\";
+        static readonly string cl = "\\\\yourtargetip\\drive$\\targetfolder\\";
         
         private void button1_Click(object sender, EventArgs e)
         {
@@ -141,7 +141,7 @@ namespace ChechSS
         {
             
             int i = 0;
-            //label2.Text = "asweqwqw";
+           
             
             foreach (string de in Directory.EnumerateFiles(cb))
             {
