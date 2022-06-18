@@ -1,0 +1,9 @@
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\bin\Debug\ChechSS.exe
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\bin\Debug\ChechSS.pdb
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\ChechSS.Form1.resources
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\ChechSS.Properties.Resources.resources
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\ChechSS.exe
+c:\users\hmi97\documents\visual studio 2010\Projects\ChechSS\ChechSS\obj\x86\Debug\ChechSS.pdb
